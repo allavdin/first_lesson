@@ -36,4 +36,4 @@
 
 ---
 
- ссылка на GitHub https://github.com/allavdin
+  ссылка на [GitHub](https://github.com/)
